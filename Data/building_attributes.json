@@ -1,0 +1,28 @@
+{
+    "buildings": [
+        {
+            "name": "building one",
+            "use": "office",
+            "stories": 1,
+            "height": 6,
+            "construction": "wood-frame",
+            "window-to-wall ratio": 0.4
+        },
+        {
+            "name": "building two",
+            "use": "office",
+            "stories": 1,
+            "height": 4.5,
+            "construction": "wood-frame",
+            "window-to-wall ratio": 0.35
+        },
+        {
+            "name": "building three",
+            "use": "office",
+            "stories": 1,
+            "height": 5,
+            "construction": "wood-frame",
+            "window-to-wall ratio": 0.6
+        }
+    ]
+}
