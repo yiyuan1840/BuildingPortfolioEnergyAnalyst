@@ -20,3 +20,4 @@ The *bldgVisualization.py* script reads the *building output.csv* and generate t
 * Buiding Monthly Utility Cost 
 
 #### Limitations
+The analysis assumes all buildings are squre shaped 
