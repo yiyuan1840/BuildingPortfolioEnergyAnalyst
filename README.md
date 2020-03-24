@@ -5,7 +5,7 @@ This tool is build on top of RC_BuildingSimulator by Architecture and Building S
 https://github.com/architecture-building-systems/RC_BuildingSimulator
 using a simplified 5R-1C buiding simulation model. 
 
-The extractBldgInfo.py script parse two files that kept building information from a GIS data source: 
+The extractBldgInfo.py script parses two files that kept building information from a GIS data source: 
 * building_attributes.json
 * building_footprints.geojson
 
