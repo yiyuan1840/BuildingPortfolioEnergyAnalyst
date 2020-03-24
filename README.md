@@ -11,7 +11,7 @@ The extractBldgInfo.py script parse two files that kept building information fro
 The building geometry information are calculated, structured and stored in a csv file:
 * buildingInfo.csv
 
-The bldgSimulation.py script reads the buildingInfo.csv and performs annual hourly dynamic simulation. The simulation outputs are written as "building name" output.csv, such as: 
+The bldgSimulation.py script reads the buildingInfo.csv and performs annual dynamic building energy simulation. The simulation outputs are written as "building name" output.csv, such as: 
 * building one output.csv
 
 The bldgVisualization.py script reads the building output.csv and generate two charts for each building:
