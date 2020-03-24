@@ -8,7 +8,7 @@ The extractBldgInfo.py script parse two files that kept building information fro
 * building_attributes.json
 * building_footprints.geojson
 
-The building geometry information are calculated, structured and stored in a csv file:
+The building information in the json files are processed, structured and stored in a csv file:
 * buildingInfo.csv
 
 The bldgSimulation.py script reads the buildingInfo.csv and performs annual dynamic building energy simulation. The simulation outputs are written as "building name" output.csv, such as: 
