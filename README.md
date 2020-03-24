@@ -1,5 +1,5 @@
 # BuildingPortfolioEnergyAnalyst
-Python Scripts to Analyze Building Portfolio Energy Performance 
+Python Code to Analyze Building Portfolio Energy Performance 
 
 This tool is build on top of RC_BuildingSimulator by Architecture and Building Systems of the ETH Zürich
 https://github.com/architecture-building-systems/RC_BuildingSimulator
