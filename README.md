@@ -1,7 +1,8 @@
 # BuildingPortfolioEnergyAnalyst
 Python Scripts to Analyze Building Portfolio Energy Performance 
 
-This tool is build on top of RC_BuildingSimulator by ETH https://github.com/architecture-building-systems/RC_BuildingSimulator
+This tool is build on top of RC_BuildingSimulator by Architecture and Building Systems of the ETH Züric
+https://github.com/architecture-building-systems/RC_BuildingSimulator
 using a simplified 5R-1C buiding simulation model. 
 
 The extractBldgInfo.py script parse two files that kept building information from a GIS data source: 
