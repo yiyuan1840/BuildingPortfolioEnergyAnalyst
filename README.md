@@ -1,5 +1,14 @@
 # BuildingPortfolioEnergyAnalyst
-#### Python Code to Analyze Building Portfolio Energy Performance 
+## Python Code to Analyze Building Portfolio Energy Performance 
+
+#### Dependencies
+* shapely
+* geopandas
+* area
+* geojsonio
+* matplotlib
+* datetime
+* pandas
 
 #### Workflow
 This tool is built on top of RC_BuildingSimulator by Architecture and Building Systems of the ETH Zürich
