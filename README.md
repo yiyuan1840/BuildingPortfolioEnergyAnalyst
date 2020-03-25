@@ -19,5 +19,6 @@ The *bldgVisualization.py* script reads the *building output.csv* and generate t
 * Building Hourly Energy Demand
 * Buiding Monthly Utility Cost 
 
-#### Limitations
-The analysis assumes all buildings are squre shaped 
+#### To-dos
+Current buiding energy models assumes all buildings are squre shaped, building footprint area are calculated with the geojson file, building width and depth are assumed to be the square root of building footprint area. 
+Energy simulation resutls from the RC_BuilsingSimulator is roughly compared with EPC (an excel implementation of ISO-13790 standards), futher comparisons and calibration are needed.  
