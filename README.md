@@ -1,5 +1,5 @@
 # BuildingPortfolioEnergyAnalyst
-## Python Code to Analyze Building Portfolio Energy Performance 
+## Python Program to Analyze Building Portfolio Energy Performance 
 
 #### Dependencies
 * shapely
