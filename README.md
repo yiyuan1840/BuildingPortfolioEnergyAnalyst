@@ -15,7 +15,7 @@ The building information in the json files are processed, structured and stored 
 The *bldgSimulation.py* script reads the buildingInfo.csv and performs annual dynamic building energy simulation. The simulation outputs are written as *"building name" output.csv*, such as: 
 * building one output.csv
 
-The *bldgVisualization.py* script reads the *building output.csv* and generate two charts for each building:
+The *bldgVisualization.py* script reads the *building output.csv* and calculates building utility cost, and generate two charts for each building:
 * Building Hourly Energy Demand
 * Buiding Monthly Utility Cost 
 
