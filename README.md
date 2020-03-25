@@ -21,14 +21,14 @@ The *bldgVisualization.py* script reads the *building output.csv* and calculates
 * Buiding Monthly Utility Cost 
 
 #### Building Assumptions
-Office utilization schedules adopted from from ASHREA 90.1 User Manual 
-Window U-value = 2.3 W/m2-K
-Window SHGC = 0.4 
-Wall U-value = 0.51 W/m2-k
-LPD = 11 W/m2
-EPD = 14 W/m2
-Infiltration = 0.1 ACH
-Ventilation =0.06 cfm/sf *Area+ 5 cfm * Number-of-Occupants (per ASHRAE 62.1) 
+* Office utilization schedules adopted from from ASHREA 90.1 User Manual 
+* Window U-value = 2.3 W/m2-K
+* Window SHGC = 0.4 
+* Wall U-value = 0.51 W/m2-k
+* LPD = 11 W/m2
+* EPD = 14 W/m2
+* Infiltration = 0.1 ACH
+* Ventilation =0.06 cfm/sf *Area+ 5 cfm * Number-of-Occupants (per ASHRAE 62.1) 
 
 #### To-dos
 Current buiding energy models assumes all buildings are squre shaped, building footprint area are calculated with the geojson file, building width and depth are assumed to be the square root of building footprint area. 
