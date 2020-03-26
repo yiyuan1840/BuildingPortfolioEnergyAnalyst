@@ -1,5 +1,6 @@
 """
 Example of an Annual Simulation
+This piece of code is modified based on the RC-Simulator example code
 """
 
 
